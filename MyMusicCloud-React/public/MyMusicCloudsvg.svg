@@ -1,0 +1,12 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg fill="#240046" width="256px" height="256px" viewBox="0 0 24 24" id="cd-music" data-name="Flat Line" xmlns="http://www.w3.org/2000/svg" class="icon flat-line" transform="rotate(45)">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier">
+<path id="secondary" d="M10,12.72A2,2,0,0,1,9,11a2,2,0,0,1,2-2h7.73a8,8,0,0,0-8-6A8.11,8.11,0,0,0,3,10.77a8,8,0,0,0,7,8.16Z" style="fill: #FF7900; stroke-width: 2;"/>
+<path id="primary" d="M21,13H18v6" style="fill: none; stroke: #240046; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"/>
+<path id="primary-2" data-name="primary" d="M13,11a2,2,0,1,1-2-2A2,2,0,0,1,13,11Zm3,6a2,2,0,1,0,2,2A2,2,0,0,0,16,17Z" style="fill: none; stroke: #240046; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"/>
+<path id="primary-3" data-name="primary" d="M10,18.94A8,8,0,1,1,18.75,9" style="fill: none; stroke: #240046; stroke-linecap: round; stroke-linejoin: round; stroke-width: 2;"/>
+</g>
+</svg>
